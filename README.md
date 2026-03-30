@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishulpu&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/rishulpu?label=Followers&style=social" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishulpu&theme=tokyonight&layout=compact" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581507-7d58-4c7f-9b3a-8c8d8b2f9a4b.gif" width="100%">
