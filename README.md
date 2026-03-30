@@ -11,7 +11,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
@@ -20,24 +20,24 @@
 🔭 I’m currently working on  
 Building intelligent automation systems using n8n, Spring Boot, and REST APIs to streamline real-world workflows and reduce manual effort.
 
-🤝 I’m looking to collaborate on  
+I’m looking to collaborate on  
 Backend development, microservices architecture, and automation-driven systems that solve real-world problems.
 
-🛠️ I’m looking for help with  
+ I’m looking for help with  
 Scalable system design, async processing, and distributed systems.
 
-🌱 I’m currently learning  
+ I’m currently learning  
 Spring Boot, Hibernate, Microservices, System Design, and AI + automation integration.
 
-💬 Ask me about  
+Ask me about  
 Java, Spring Boot, REST APIs, backend development, and n8n automation workflows.
 
-⚡ Fun fact  
+ Fun fact  
 I love building systems that automate real-world tasks and save time 🚀
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/rishu.choudhary">
@@ -53,24 +53,12 @@ I love building systems that automate real-world tasks and save time 🚀
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,react,docker,git,postman" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishulpu&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rishulpu&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishulpu&theme=tokyonight&layout=compact&hide_border=true" height="150"/>
-</p>
 
 
 ⭐ "Building scalable backend systems & smart automation solutions is my passion."
