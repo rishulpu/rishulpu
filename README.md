@@ -1,44 +1,41 @@
 <h1 align="center">Hi 👋, I'm Rishu Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Spring+Boot+Developer;Automation+Enthusiast;Backend+Engineer;Building+Smart+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=650&lines=Spring+Boot+Developer;Automation+Enthusiast;Backend+Engineer;Building+Smart+Systems+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishulpu&theme=tokyonight&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=rishulpu&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/rishulpu?label=Followers&style=social" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581507-7d58-4c7f-9b3a-8c8d8b2f9a4b.gif" width="100%">
 
 ---
 
 ## 💫 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 🔭 I’m currently working on  
-Designing and building intelligent automation systems using n8n, Spring Boot, and REST APIs, focusing on real-world workflow automation, backend integrations, and reducing manual effort through smart systems.
+Building intelligent automation systems using n8n, Spring Boot, and REST APIs to streamline real-world workflows and reduce manual effort.
 
 🤝 I’m looking to collaborate on  
-Backend development, microservices architecture, and automation-driven projects that solve real-world problems with scalable and efficient solutions.
+Backend development, microservices architecture, and automation-driven systems that solve real-world problems.
 
 🛠️ I’m looking for help with  
-Scalable system design, asynchronous processing, and distributed architectures to build high-performance and fault-tolerant backend systems.
+Scalable system design, async processing, and distributed systems.
 
 🌱 I’m currently learning  
-Advanced Spring Boot, Hibernate, Microservices, and System Design, along with exploring AI + automation integration in backend applications.
+Spring Boot, Hibernate, Microservices, System Design, and AI + automation integration.
 
 💬 Ask me about  
 Java, Spring Boot, REST APIs, backend development, and n8n automation workflows.
 
 ⚡ Fun fact  
-I love building systems that automate real-world tasks and save hours of manual effort 🚀
+I love building systems that automate real-world tasks and save time 🚀
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581507-7d58-4c7f-9b3a-8c8d8b2f9a4b.gif" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -56,35 +53,24 @@ I love building systems that automate real-world tasks and save hours of manual 
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581507-7d58-4c7f-9b3a-8c8d8b2f9a4b.gif" width="100%">
-
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,react,docker,kubernetes,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,react,docker,git,postman" />
 </p>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581507-7d58-4c7f-9b3a-8c8d8b2f9a4b.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishulpu&theme=tokyonight&show_icons=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rishulpu&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishulpu&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rishulpu&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishulpu&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishulpu&theme=tokyonight&layout=compact&hide_border=true" height="150"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-snake gif
-
----
 
 ⭐ "Building scalable backend systems & smart automation solutions is my passion."
